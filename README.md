@@ -22,6 +22,6 @@ yarn start
 ````
 3. Open your browser in  `localhost:5000`
 
-The files upload are saved in `upload_archives` and later move and converted into `converted_files` 
+The files upload are saved in `upload_files` and later move and converted into `converted_files` 
 Convert gltf -> glb and obj -> glb
 
